@@ -10,3 +10,9 @@ pyyaml
 python-dateutil
 jupyterlab
 pandas_market_calendars
+pmdarima
+scikit-learn
+tensorflow
+matplotlib
+pandas
+numpy
